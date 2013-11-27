@@ -16,7 +16,7 @@ C:\Users\*****\AppData\Roaming\Sublime Text 2\Packages\User
 
 -----------
 
-* Raccourcis (fonctionne avec touche Tab) :
+Raccourcis (fonctionne avec touche Tab) :
 * @media + tab → @media (max-width: 640px) {}
 * media + tab → @media (max-width: 640px) {}
 * content + tab → du contenu-type HTML (titre, navigation, paragraphes)
