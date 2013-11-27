@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<ul>
+	<li>Salade</li>
+	<li>Tomate</li>
+	<li>Oignons</li>
+	<li>Choucroute</li>
+	<li>Picon bière</li>
+</ul>
+]]></content>
+	<tabTrigger>list</tabTrigger> 
+</snippet>

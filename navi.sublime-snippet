@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<nav role="navigation" id="navigation">
+	<ul>
+		<li><a href="#">Salade</a></li>
+		<li><a href="#">Tomate</a></li>
+		<li><a href="#">Oignons</a></li>
+		<li><a href="#">Choucroute</a></li>
+		<li><a href="#">Picon bière</a></li>
+	</ul>
+</nav>
+]]></content>
+	<tabTrigger>navi</tabTrigger> 
+</snippet>

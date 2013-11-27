@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<!--[if lte IE 7]>
+	$0
+<![endif]-->
+]]></content>
+	<tabTrigger>ie7</tabTrigger> 
+</snippet>
